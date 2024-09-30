@@ -2,3 +2,7 @@ h1{
     background-color: rgb(19, 160, 199);
     text-align: center;
 }
+
+h1:hover{
+    color: rgb(27, 117, 142);
+}
