@@ -3,6 +3,6 @@ h1{
     text-align: center;
 }
 
-h1:hover{
-    color: rgb(27, 117, 142);
+.a:hover{
+    color: rgb(19, 160, 199);
 }
