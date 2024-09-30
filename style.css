@@ -1,21 +1,8 @@
 h1{
-    color: aqua;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(19, 160, 199);
+    text-align: center;
 }
 
-p{
-    color: black;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-ul{
-        color: aqua;
-        font-size: 10px;
-        font-family: Arial, Helvetica, sans-serif;
-}
-
-image{
-    size: 5px;
+main:hover{
+    color: rgb(36, 123, 147);
 }
