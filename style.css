@@ -1,8 +1,9 @@
 h1{
     background-color: rgb(19, 160, 199);
     text-align: center;
+    color: aliceblue;
 }
 
-.a:hover{
-    color: rgb(19, 160, 199);
+nav a{
+    color: rgb(24, 69, 81);
 }
