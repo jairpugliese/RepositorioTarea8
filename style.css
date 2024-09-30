@@ -13,7 +13,7 @@ nav a{
 }
 
 nav a:hover{
-     color: rgb(244, 225, 19);
+    color: rgb(244, 225, 19);
 }
 
 .contenedor{
@@ -23,4 +23,15 @@ nav a:hover{
     background-color: #f4f4f4;
     border-radius: 8px;
     box-shadow:  0 0 10px rgb(0, 0, 130.1);
+}
+
+.contenedor h2{
+    color: black;
+    background-color: blueviolet;
+}
+
+.contenedor p{
+    color: rgb(226, 206, 206);
+    background-color: rgb(5, 4, 6);
+    font-size: 16px;
 }
