@@ -7,11 +7,12 @@
 </head>
 <body>
     <script>
-        let numero  = parseInt(prompt("Ingrese un numero"))
-        if (numero % 2 == 0){
-            console.log("Numero es par");
+        let descuento  = parseInt(prompt("Ingrese monto total de su compra"))
+        if (numero > 100){
+            let total = numero - (numero*0.1);
+                console.log("El total para su compra es," total);
         }else {
-            console.log("Numero es impar");
+                console.log("No hay descuento");
         }
 
 
