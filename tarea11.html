@@ -7,13 +7,13 @@
 </head>
 <body>
     <script>
-        let numero  = parseInt(prompt("Ingrese monto total de su compra"));
-        if (numero > 100){
-            let total = numero - (numero*0.1);
-                console.log("El total para su compra es," , total);
-        }else {
-                console.log("No hay descuento");
-        }
+        let numero  = Math.floor (Math.ramdon)()*10)+1;
+        let adivina =prompt("Adivina un nunmero del 1 al 10")
+            if (adivina==numero){
+                console.log("Felicidades, adivinaste el numero");
+            }else {
+                console.log("Lo siento, el numero era" , numero)
+            }
 
 
 
