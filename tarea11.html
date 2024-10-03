@@ -7,14 +7,13 @@
 </head>
 <body>
     <script>
-        let numero;
-        while(true){
-            numero=parseInt(prompt("ingresa un numero"));
-            if (numero<0){
-                break;
-            }
-        }
-        document.write("Has salido del bucle");
+        let password;
+        do{
+            password=prompt("Ingrese la contraseña");
+
+        }while(password!="sesion12");
+        document.write("contraseña correcta!")
+
     </script>
 </body>
 </html>
