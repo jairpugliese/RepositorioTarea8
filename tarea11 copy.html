@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea13</title>
+</head>
+<body>
+    <script>
+        function sumar(a,b){
+            return(a+b)
+        }
+        function restar(a,b){
+            return(a-b);
+        }
+        function multi(a,ba){
+            return(a*b);
+        }
+        function divi(a,b){
+            return(a/b);
+        }
+        //function calculadora
+        function calcula(n1,n2,operacion){
+            switch(operacion){
+                case 'sumar':
+                    return sumar (n1,n2);
+                case 'restar':
+                    return restar (n1,n2);
+                case 'multi':
+                    return multi (n1,n2);
+                case 'divi':
+                    return divi (n1,n2)
+                default:
+                    return "operacion no valida"
+            }
+        }
+
+    </script>
+</body>
+</html>
