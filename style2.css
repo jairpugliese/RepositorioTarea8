@@ -12,7 +12,6 @@ header{
     top: 0;
     z-index: 1000;
 }
-
 nav ul{
     list-style: none;
     display: flex;
@@ -34,3 +33,4 @@ nav ul li a{
 nav ul li a:hover{
     background-color: #555;
 }
+
