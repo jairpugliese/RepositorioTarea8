@@ -44,3 +44,22 @@ nav ul li a:hover{
     background-color: #555;
 }
 
+#home {
+    height: 100vh;
+    background-color: #b74f4f;
+}
+
+#about {
+    height: 100vh;
+    background-color: #b74f4f;
+}
+
+#services {
+    height: 100vh;
+    background-color: #b74f4f;
+}
+
+#contact {
+    height: 100vh;
+    background-color: #b74f4f;
+}
