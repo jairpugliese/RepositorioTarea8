@@ -12,6 +12,15 @@ header{
     top: 0;
     z-index: 1000;
 }
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
 nav ul{
     list-style: none;
     display: flex;
