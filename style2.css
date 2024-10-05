@@ -3,3 +3,34 @@ body{
     margin: 0px;
     padding: 0px;
 }
+
+header{
+    background-color: antiquewhite;
+    color: black;
+    padding: 1em 0;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 1em;
+}
+
+nav ul li a:hover{
+    background-color: #555;
+}
