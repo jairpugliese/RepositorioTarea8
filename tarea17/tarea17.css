@@ -21,3 +21,21 @@ section{
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+h2{
+    color: antiquewhite;
+
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+
+ul li{
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
