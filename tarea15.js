@@ -1,3 +1,3 @@
 function mostrarMensaje(seccion) {
-    escriba aquí el mensaje…
+    alert('Este es un mensaje desde la '+seccion);
    }
