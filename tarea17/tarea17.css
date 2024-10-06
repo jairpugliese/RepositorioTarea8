@@ -3,7 +3,7 @@ body{
     background-color: rgb(201, 155, 243);
     margin: 0;
     padding: 0;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 header{
@@ -22,7 +22,7 @@ section{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 h2{
-    color: antiquewhite;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -43,7 +43,7 @@ ul li{
 footer{
     background-color: rgb(236, 224, 248);
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 10px;
     width: 100%;
     bottom: 0;
@@ -65,7 +65,7 @@ input, button{
 
 button{
     background-color: #b19d2b;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     cursor: pointer;
 }
