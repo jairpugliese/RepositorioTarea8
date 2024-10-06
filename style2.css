@@ -33,7 +33,7 @@ nav ul{
 
 nav ul li {
     margin: 0;
-    display: none;
+
 }
 
 nav ul li a{
@@ -44,7 +44,7 @@ nav ul li a{
 
 nav ul li a:hover{
     background-color: #555;
-    display: block;
+    display: none;
 }
 
 #nav-toggle{
