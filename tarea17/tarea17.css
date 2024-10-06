@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(201, 155, 243);
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+header{
+    background-color: rgb(242, 242, 157);
+    color: black;
+    text-align: center;
+    padding: 20px;
+    
+}
