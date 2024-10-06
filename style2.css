@@ -46,9 +46,6 @@ nav ul li a:hover{
     display: block;
 }
 
-nav ul li ul li{
-    display: none;
-}
 
 #nav-toggle{
     display: none;
