@@ -5,6 +5,10 @@ body{
     background-color: #f4f4f4;
 }
 
+li{
+    list-style: none;
+}
+
 section {
     background-color: white;
     margin: 1em 0;
@@ -41,5 +45,5 @@ button{
 
 button:hover{
     background-color: aqua;
-    
+
 }
