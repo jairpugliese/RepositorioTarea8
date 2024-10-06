@@ -98,8 +98,8 @@ main{
     }
     #nav-toggle {
     display: block;
-    width: 30em;
-    height: 30em;
+    width: 30px;
+    height: 30px;
 
     }
     .nav-open ul {
