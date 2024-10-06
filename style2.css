@@ -52,8 +52,8 @@ nav ul li a:hover{
     color: white;
     font-size: 1.5em;
     cursor: pointer;
-    width: 30em;
-    height: 30em;
+    width: 30px;
+    height: 30epx;
 }
 
 #home {
