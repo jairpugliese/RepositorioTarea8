@@ -29,3 +29,17 @@ nav{
 div{
     padding: 1em;
 }
+button{
+    padding: .5em 1em;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: aqua;
+    
+}
