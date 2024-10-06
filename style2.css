@@ -25,7 +25,7 @@ nav{
 }
 nav ul{
     list-style: none;
-    display: flex;
+    display: none;
     gap: 1em;
     margin: 0;
     padding: 0;
@@ -43,11 +43,7 @@ nav ul li a{
 
 nav ul li a:hover{
     background-color: #555;
-
-}
-
-nav ul li ul li{
-    display: none;
+    display: block;
 }
 
 #nav-toggle{
