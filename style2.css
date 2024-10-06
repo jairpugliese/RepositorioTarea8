@@ -52,8 +52,7 @@ nav ul li a:hover{
     color: white;
     font-size: 1.5em;
     cursor: pointer;
-    width: 30px;
-    height: 30px;
+
 }
 
 #home {
@@ -98,8 +97,6 @@ main{
     }
     #nav-toggle {
     display: block;
-    width: 30px;
-    height: 30px;
 
     }
     .nav-open ul {
