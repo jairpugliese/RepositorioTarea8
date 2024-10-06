@@ -33,6 +33,7 @@ nav ul{
 
 nav ul li {
     margin: 0;
+    display: none;
 }
 
 nav ul li a{
