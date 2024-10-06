@@ -3,7 +3,7 @@ body{
     background-color: rgb(201, 155, 243);
     margin: 0;
     padding: 0;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 
 header{
@@ -11,5 +11,13 @@ header{
     color: black;
     text-align: center;
     padding: 20px;
-    
+
+}
+
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(201, 155, 243);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
