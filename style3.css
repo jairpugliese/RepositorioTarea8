@@ -19,6 +19,12 @@ section {
     padding: 1em 0;
    }
 
+nav{
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    list-style: none;
+}
 
 div{
     padding: 1em;

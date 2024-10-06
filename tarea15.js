@@ -1,0 +1,3 @@
+function mostrarMensaje(seccion) {
+    escriba aquí el mensaje…
+   }
