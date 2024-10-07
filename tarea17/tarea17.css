@@ -75,10 +75,10 @@ button:hover{
 }
 
 a{
-    background-color: #b19d2b;
     text-decoration: none;
 }
 
 a:hover{
     text-decoration: underline;
+    background-color: #b19d2b;
 }
